@@ -14,6 +14,20 @@ __API used:__
 - https://www.themealdb.com/api/json/v1/1/search.php?f=a
 
 
+__How to run:__
+
+- Make sure that you have a suitable version for node and Ruby
+- Clone the repo
+- Run: `yarn install`
+- To run ios:
+  - Run `cd ios && pod install && cd ..`
+  - Run `yarn ios`  <-- the app will try to run on simulator iPhone 12 Pro Max
+- To run android:
+  - Run `yarn android`
+- If you encountered errors while running the app, try following the environment installation guidelines from react native docs 
+
+
+
 __Screenshots:__
 
 Android:

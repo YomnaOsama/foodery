@@ -9,4 +9,6 @@ export default {
   dividerColor: '#f0eff4',
   placeholder: "#b1b1bc",
   headerBackground: "#fafafa",
+  fadedPrimary: "#fef2f2",
+  categoriesBackground: "#f4f8f7",
 }
